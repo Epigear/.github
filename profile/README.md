@@ -1,4 +1,8 @@
-## Hi there 👋
+##
+## This GitHub repository contains source code for EpiGear software developed by the late Dr Jan Barendregt.
+## Further information about these software can be found here: https://www.epigear.com/index.htm
+## Please note that all source code is made available under a GNU General Public Licence v3 (GPLv3) license
+##
 
 <!--
 
